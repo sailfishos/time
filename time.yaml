@@ -1,0 +1,20 @@
+Name: time
+Summary: A GNU utility for monitoring a program's use of system resources
+Version: 1.7
+Release: 33
+Group: Applications/System
+License: GPLv2+
+URL: http://www.gnu.org/software/time/
+Sources:
+    - ftp://prep.ai.mit.edu/pub/gnu/%{name}/%{name}-%{version}.tar.gz
+Patches:
+    - time-1.7-destdir.patch
+    - time-1.7-verbose.patch
+    - fix-info-direntry.patch
+PkgBR:
+    - texinfo
+Description: |
+    The GNU time utility runs another program, collects information about
+    the resources used by that program while it is running, and displays
+    the results.
+

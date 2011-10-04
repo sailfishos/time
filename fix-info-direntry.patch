@@ -1,0 +1,15 @@
+diff -uprN time-1.7/time.texi time-1.7.patched/time.texi
+--- time-1.7/time.texi	1996-06-13 01:40:29.000000000 +0800
++++ time-1.7.patched/time.texi	2010-09-19 13:03:22.964975402 +0800
+@@ -39,6 +39,11 @@ except that this permission notice may b
+ by the Foundation.
+ @end ifinfo
+ 
++@direntry
++* time: (time).                        GNU time utility. 
++@end direntry
++
++
+ @titlepage
+ @title Measuring Program Resource Use
+ @subtitle The GNU @code{time} Command
