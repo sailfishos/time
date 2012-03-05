@@ -1,8 +1,11 @@
+* Mon Mar 05 2012 Marko Saukko <marko.saukko@gmail.com> - 1.7
+- Added -docs package to fix part of MER#197.
+
 * Sun Sep 19 2010 Yan Yin <yan.yin@intel.com> - 1.7
-* Fix info warnings in fix-info-direntry.patch (BMC #6850)
+- Fix info warnings in fix-info-direntry.patch (BMC #6850)
 
 * Tue Jun 22 2010 Yan Yin <yan.yin@intel.com> - 1.7
-* Update to YAML format
+- Update to YAML format
 
 * Sun Nov 02 2008 Anas Nashif <anas.nashif@intel.com> 1.7
 - patch -> patch0

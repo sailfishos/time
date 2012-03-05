@@ -18,3 +18,10 @@ Description: |
     the resources used by that program while it is running, and displays
     the results.
 
+
+SubPackages:
+    - Name:  docs
+      Summary: Documentation files for %{name}
+      Group: Applications/System
+      Description: |
+        %{summary}.
