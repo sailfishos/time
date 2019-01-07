@@ -1,3 +1,6 @@
+* Thu Jan 03 2019 Tomi Leppänen <tomi.leppanen@jolla.com> - 1.7-34
+- [packaging] Rename time-docs to time-doc. Contributes to JB#38578
+
 * Mon Mar 05 2012 Marko Saukko <marko.saukko@gmail.com> - 1.7
 - Added -docs package to fix part of MER#197.
 
